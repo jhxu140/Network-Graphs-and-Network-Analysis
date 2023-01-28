@@ -1,5 +1,6 @@
 # Network-Graphs-and-Network-Analysis
 Please check the last part of this written report to see the open-ended project
+
 This is a homework assignment for the online course "MITx 6.419: Data Analysis: Statistical Modeling and Computation in Applications" that focuses on the application of network analysis techniques. The assignment is an open-ended project that requires me to choose a sociologically relevant research question about either the CAVIAR network or the Facebook or Twitter network from the recitation notebook section.The data used for this assignment can be obtained from publicly available sources such as the Stanford Large Network Dataset Collection (https://snap.stanford.edu/data/index.html) where the Facebook and Twitter ego-networks are available.
 
 I have chosen to investigate the network structure of Facebook friendship connections by utilizing network graph visualization techniques. The primary objective of this analysis is to verify the strength of weak ties theory through empirical analysis. According to this theory, having many weak connections can be more beneficial than having a few strong ones. This project is particularly interesting and useful to me as it allows me to gain insights into the social dynamics of online networks.
