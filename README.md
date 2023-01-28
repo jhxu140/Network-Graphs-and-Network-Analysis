@@ -1,12 +1,7 @@
 # Network-Graphs-and-Network-Analysis
 
-This is a home work of Network Analysis from online course “MITx 6.419: Data Analysis: Statistical Modeling and Computation in Applications".
+This is a homework assignment for the online course "MITx 6.419: Data Analysis: Statistical Modeling and Computation in Applications" that focuses on the application of network analysis techniques. The assignment is an open-ended project that requires me to choose a sociologically relevant research question about either the CAVIAR network or the Facebook or Twitter network from the recitation notebook section.The data used for this assignment can be obtained from publicly available sources such as the Stanford Large Network Dataset Collection (https://snap.stanford.edu/data/index.html) where the Facebook and Twitter ego-networks are available.
 
-The last part of this assignment is an open-ended project. We had to choose a sociologically interesting question about either the CAVIAR network or the facebook or twitter network from the recitation notebook section (for the social network data, go to https://snap.stanford.edu/data/ego-Facebook.html and https://snap.stanford.edu/data/ego-Twitter.html, or any other publicly available network data set, e.g. those at https://snap.stanford.edu/data/index.html.
+I have chosen to investigate the network structure of Facebook friendship connections by utilizing network graph visualization techniques. The primary objective of this analysis is to verify the strength of weak ties theory through empirical analysis. According to this theory, having many weak connections can be more beneficial than having a few strong ones. This project is particularly interesting and useful to me as it allows me to gain insights into the social dynamics of online networks.
 
-
-In this question I will focus on using network graphs to show how friends on Facebook
-are connected. We hope to verify the strength of weak ties. (The weak ties states that
-We can have thousands of connections with others but only a few of them are close
-friends. Instead of focusing on building stronger ties, we should build hundreds or
-thousands of weak ones.)
+In addition, I am aware that network analysis techniques are often utilized in criminology to investigate time-varying criminal networks. I plan to apply similar techniques to study the network structure of connected clients with substance-use disorders. By analyzing the patterns of connections between individuals, I hope to gain a better understanding of the factors that contribute to substance-use disorders and identify potential intervention points for prevention and treatment.
