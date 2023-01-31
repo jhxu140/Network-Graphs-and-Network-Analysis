@@ -12,7 +12,7 @@ In addition, I am aware that network analysis techniques are often utilized in c
 The visualization below used a very cool funcion called force-directed layout function to calculate the position of each node. Generally, The more mutual connections nodes share, The closer those nodes will cluster. Also different clusters of nodes will be pulled away from each other.
 
 
-# Network Graphs of users with at least 2 common friends
+# Network Graphs of Users with at Least 2 Common Friends
 
 ![Screenshot](networkgraph_two_simple.jpg)
 
@@ -41,7 +41,7 @@ Betweenness centrality measures frequency of a node being located on the shortes
 
 
 
-# Network Graphs of users with at least 30 common friends
+# Network Graphs of Users with at Least 30 Common Friends
 
 ![Screenshot](networkgraph_thirty_simple.jpg)
 
